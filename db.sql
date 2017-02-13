@@ -1,4 +1,4 @@
-
+#this is edited by venky
 create database simpleAppDB;
 
 use simpleAppDB;
