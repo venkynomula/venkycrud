@@ -1,5 +1,7 @@
 Steps to run
-#venky 
+#venky
+#JNIT DEVOPS
+#DEV
 -Create the mysql database/tables/ from db.sql
 
 -Run the following command from the project folder
