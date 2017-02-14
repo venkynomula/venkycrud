@@ -1,4 +1,5 @@
-#this is edited by venky
+#this is JNIT VENKY DEVOPS 2017 
+#GRAPEVINE TEXAS 75067
 create database simpleAppDB;
 
 use simpleAppDB;
