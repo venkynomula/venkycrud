@@ -1,7 +1,8 @@
 Steps to run
-#venky
-#JNIT DEVOPS
-#DEV
+#venky my new github
+#JNIT DEVOPS 2017 GRAPEVINE TX 75067
+#Dallas Lewisville Irving Plano
+
 -Create the mysql database/tables/ from db.sql
 
 -Run the following command from the project folder
